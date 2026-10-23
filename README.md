@@ -257,4 +257,4 @@ This repository serves as the official landing page for Cyber Hunter. The softwa
 **Get the most recent version of Cyber Hunter today!**
 
 ---
-**Last updated:** 2026-10-22 23:06:42 UTC
+**Last updated:** 2026-10-23 04:08:48 UTC
